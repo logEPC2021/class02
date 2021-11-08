@@ -85,14 +85,7 @@ xaringanExtra::use_extra_styles(
 }
 ```
 
-# Grupos de trabalho?
-.center[
-.larger[
-.pink[ Enviar para mim até dia 29/10.]
-]
-]
 
----
 class: center, middle
 
 # Retrospecto
@@ -101,7 +94,7 @@ class: center, middle
 
 # Definições de Logística
 
-Penso que o logística é muito mais um conjunto de princípios do que uma operação. "Fazer" `logística` relaciona-se à **promover o acesso a bens de consumo  e serviços, essenciais à vida humana e promovidos pelo consumo, destinados ao consumidor final da maneira mais eficiente e responsiva possível**. 
+Penso que a logística é muito mais um conjunto de princípios do que uma operação. "Fazer" `logística` relaciona-se à **promover o acesso a bens de consumo  e serviços, essenciais à vida humana e promovidos pelo consumo, destinados ao consumidor final da maneira mais eficiente e responsiva possível**. 
 
 .question[
 “**Logística** é dispor a **mercadoria ou o serviço** certo, no **lugar** certo, no **tempo** certo e nas **condições desejadas**, ao mesmo tempo em que fornece a **maior contribuição à empresa**”. 
